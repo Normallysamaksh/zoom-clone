@@ -1,0 +1,127 @@
+[
+  {
+    "file": "01-dashboard.png",
+    "title": "Home dashboard",
+    "description": "Desktop home with quick meeting actions, upcoming meetings, recent meetings, and navigation."
+  },
+  {
+    "file": "02-join.png",
+    "title": "Join a meeting",
+    "description": "Meeting ID or invitation link, display name, and audio/video preferences."
+  },
+  {
+    "file": "03-join-validation.png",
+    "title": "Join validation",
+    "description": "A clear error for an invalid meeting ID."
+  },
+  {
+    "file": "04-schedule.png",
+    "title": "Schedule a meeting",
+    "description": "Topic, description, local date and time, duration, and automatic meeting ID."
+  },
+  {
+    "file": "05-scheduled.png",
+    "title": "Schedule confirmation",
+    "description": "A saved meeting and its shareable invitation link."
+  },
+  {
+    "file": "06-meetings.png",
+    "title": "Upcoming meetings",
+    "description": "Searchable meeting list with dates, IDs, and start or join actions."
+  },
+  {
+    "file": "07-history.png",
+    "title": "Meeting history",
+    "description": "Completed meetings retained in the recent meeting history."
+  },
+  {
+    "file": "08-details.png",
+    "title": "Meeting details",
+    "description": "Host, schedule, meeting ID, invitation link, and host actions."
+  },
+  {
+    "file": "09-settings.png",
+    "title": "Settings",
+    "description": "Default user profile and preferences saved on this device."
+  },
+  {
+    "file": "10-profile.png",
+    "title": "Profile",
+    "description": "Default user, availability, and workspace plan."
+  },
+  {
+    "file": "10a-notifications.png",
+    "title": "Notifications",
+    "description": "An empty notification state with a clear close action."
+  },
+  {
+    "file": "10b-help.png",
+    "title": "Help",
+    "description": "A short guide to starting, joining, and scheduling meetings."
+  },
+  {
+    "file": "11-prejoin.png",
+    "title": "Pre-join preview",
+    "description": "Camera preview, microphone and camera controls, host information, and display name."
+  },
+  {
+    "file": "12-room.png",
+    "title": "Meeting room",
+    "description": "Dark meeting room with video tile, invitation action, timer, and the meeting toolbar."
+  },
+  {
+    "file": "13-participants.png",
+    "title": "Participants panel",
+    "description": "Participant presence, host badge, invitation action, and host mute controls."
+  },
+  {
+    "file": "14-chat.png",
+    "title": "Meeting chat",
+    "description": "Everyone-in-meeting chat with message composer and timestamps."
+  },
+  {
+    "file": "15-invitation.png",
+    "title": "Meeting invitation",
+    "description": "Copyable invitation link and meeting ID from inside the room."
+  },
+  {
+    "file": "16-end.png",
+    "title": "End or leave",
+    "description": "Host choice to leave the room or end the meeting for everyone."
+  },
+  {
+    "file": "17-mobile-room.png",
+    "title": "Mobile meeting room",
+    "description": "Portrait video layout with compact meeting controls."
+  },
+  {
+    "file": "18-mobile-home.png",
+    "title": "Mobile dashboard",
+    "description": "Responsive meeting actions, meeting cards, and bottom navigation."
+  },
+  {
+    "file": "19-mobile-schedule.png",
+    "title": "Mobile scheduling",
+    "description": "A single-column scheduling form sized for smaller screens."
+  },
+  {
+    "file": "20-mobile-meetings.png",
+    "title": "Mobile meetings",
+    "description": "Meeting list and search on a narrow viewport."
+  },
+  {
+    "file": "20a-mobile-settings.png",
+    "title": "Mobile settings",
+    "description": "Profile and audio/video preferences on mobile."
+  },
+  {
+    "file": "20b-mobile-prejoin.png",
+    "title": "Mobile pre-join",
+    "description": "Portrait camera preview and meeting information before joining."
+  },
+  {
+    "file": "21-unavailable.png",
+    "title": "Meeting unavailable",
+    "description": "Friendly error page with a path back to the dashboard."
+  }
+]
